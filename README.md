@@ -6,7 +6,9 @@ Works with just one button - click start/reset
 
 Also has setting to customize you time management.
 
+It looks like this:
 
+![Pomodoro](/Pomodoro.png)
 
 
 
